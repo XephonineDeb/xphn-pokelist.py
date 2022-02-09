@@ -6,3 +6,5 @@ You can get it like:
 import xphnpokelist
 pokemonslist=xphnpokelist.pokemons #returns a list of the pokemons
 ```
+
+You can also get a simple .txt file containing all the names of the pokemons, that is the "pokelist.txt" file.
